@@ -10,5 +10,5 @@ AR face Distortion is an AR application which can distort differnt features of t
 
 ## Technology Stack
 
-Spark AR Studio
+Spark AR Studio  
 Spark AR player
