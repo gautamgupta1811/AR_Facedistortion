@@ -1,6 +1,6 @@
 # AR_Face Distortion
 
-AR face Distortion is an AR application which can distort differnt features of the face. The application can be accessed in Spark AR studio or by using Spark AR player in mobile.
+AR face Distortion is an AR application which can distort different features of the face. The application can be accessed in Spark AR studio or by using Spark AR player in mobile.
 
 ## :camera: ScreenShots
 
@@ -12,3 +12,4 @@ AR face Distortion is an AR application which can distort differnt features of t
 
 Spark AR Studio  
 Spark AR player
+
